@@ -1,5 +1,5 @@
 # easy_ensembl_to_gene_symbol_hgnc_R
-Converts a list of genes in ensembl format to HGNC gene symbol format using biomaRt
+Converts a list of genes in ENSEMBL format to HGNC gene symbol format using biomaRt
 
 You can start from (see example files in this repository):
 
